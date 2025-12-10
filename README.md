@@ -186,3 +186,4 @@ This application serves as the user interface for the CRM system. It is a single
 
 The frontend uses the Next.js App Router pattern for routing and organization:
 
+ ![Image Alt](https://1drv.ms/i/c/69e6014fe241c42a/IQCD8HNiSZ4xTLVawz495GuuAcj7LVTasXjfgTRj9SqJ8BQ?e=RB15zF).
