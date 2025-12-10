@@ -188,3 +188,11 @@ The frontend uses the Next.js App Router pattern for routing and organization:
 
  
 <img width="1905" height="916" alt="Image" src="https://github.com/user-attachments/assets/43ee65a4-130c-48eb-9725-2f5182f736f0" />
+
+<img width="1890" height="822" alt="Image" src="https://github.com/user-attachments/assets/a4ac9d9c-37c9-485b-b356-44df2e228ce4" />
+<img width="1899" height="904" alt="Image" src="https://github.com/user-attachments/assets/3f7a96fd-092a-4a07-96aa-ab6a2198cb5c" />
+<img width="982" height="905" alt="Image" src="https://github.com/user-attachments/assets/3f35fadb-6990-4eec-92c3-93cd2a919297" />
+<img width="1860" height="885" alt="Image" src="https://github.com/user-attachments/assets/cec7ff36-2f03-4c7f-95eb-4719abf2f83a" />
+<img width="1876" height="892" alt="Image" src="https://github.com/user-attachments/assets/dfd55c3d-3c45-4cf0-9c6b-c7cfbfdcb9ce" />
+<img width="1894" height="911" alt="Image" src="https://github.com/user-attachments/assets/366e9bad-39ab-4983-9882-193fd90b3efb" />
+<img width="1878" height="899" alt="Image" src="https://github.com/user-attachments/assets/e71b0a2c-9473-4807-803b-063da664b938" />
